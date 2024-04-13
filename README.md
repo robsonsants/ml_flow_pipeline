@@ -4,6 +4,8 @@
 Este projeto visa desenvolver pipelines com os melhores parâmetros e hiper-parâmetros dos modelos de aprendizado de máquina para a escolha do melhor modelo para prever o lucro de vendas em um e-commerce. O modelo é treinado com um conjunto de dados fornecido pelo cliente, que inclui informações sobre vendas anteriores.
 
 ## Escolhas de Design
+Escolhi testar os modelos mais utilizados na literatura para atividades de  previsão e classificação, e explorar a arquitetura de aprendizado de máquina, com o objetivo de encontrar o melhor modelo possível para a tarefa do desafio. No jupyter notebook eu explico melhor o porque de certas escolhas.
+
 ## Aplicação dos modelos de ML para tarefas de classificação:
 #### Seleção de modelos:
 * Regressão Logística
