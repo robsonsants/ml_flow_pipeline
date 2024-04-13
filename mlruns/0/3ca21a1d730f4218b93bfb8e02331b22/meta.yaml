@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/allis/Downloads/MDCC/Untitled%20Folder/mlruns/0/3ca21a1d730f4218b93bfb8e02331b22/artifacts
+end_time: 1712971574855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ca21a1d730f4218b93bfb8e02331b22
+run_name: debonair-bear-145
+run_uuid: 3ca21a1d730f4218b93bfb8e02331b22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712971574837
+status: 3
+tags: []
+user_id: allis

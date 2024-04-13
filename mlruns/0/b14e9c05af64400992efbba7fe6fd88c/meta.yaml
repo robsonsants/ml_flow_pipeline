@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/allis/Downloads/MDCC/Untitled%20Folder/mlruns/0/b14e9c05af64400992efbba7fe6fd88c/artifacts
+end_time: 1712971653468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b14e9c05af64400992efbba7fe6fd88c
+run_name: likeable-crane-542
+run_uuid: b14e9c05af64400992efbba7fe6fd88c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712971620106
+status: 3
+tags: []
+user_id: allis

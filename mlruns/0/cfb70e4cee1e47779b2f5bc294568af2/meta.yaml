@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/allis/Downloads/MDCC/Untitled%20Folder/mlruns/0/cfb70e4cee1e47779b2f5bc294568af2/artifacts
+end_time: 1712973967800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfb70e4cee1e47779b2f5bc294568af2
+run_name: suave-cod-734
+run_uuid: cfb70e4cee1e47779b2f5bc294568af2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712973967781
+status: 3
+tags: []
+user_id: allis

@@ -1,0 +1,5 @@
+0,1
+Melhores parâmetros: ,"{'Decision_Tree__criterion': 'gini', 'Decision_Tree__max_depth': 4}"
+Melhores hiper-parâmetros: ,"Pipeline(steps=[('std_scaler', StandardScaler()),
+                ('Decision_Tree', DecisionTreeClassifier(max_depth=4))])"
+Melhor pontuação de validação cruzada: ,0.6910925771476231

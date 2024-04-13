@@ -1,0 +1,6 @@
+0,1
+Melhores parâmetros: ,"{'Random_Forest__criterion': 'entropy', 'Random_Forest__max_depth': None, 'Random_Forest__n_estimators': 50}"
+Melhores hiper-parâmetros: ,"Pipeline(steps=[('std_scaler', StandardScaler()),
+                ('Random_Forest',
+                 RandomForestClassifier(criterion='entropy', n_estimators=50))])"
+Melhor pontuação de validação cruzada: ,0.6910925771476231

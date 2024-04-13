@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/allis/Downloads/MDCC/Untitled%20Folder/mlruns/0/dbf31446631840b2ae3d2dba0c62d2e3/artifacts
+end_time: 1712974006435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbf31446631840b2ae3d2dba0c62d2e3
+run_name: dapper-conch-215
+run_uuid: dbf31446631840b2ae3d2dba0c62d2e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712973984972
+status: 3
+tags: []
+user_id: allis

@@ -1,0 +1,6 @@
+0,1
+Melhores parâmetros: ,"{'KNN__n_neighbors': 8, 'KNN__weights': 'distance'}"
+Melhores hiper-parâmetros: ,"Pipeline(steps=[('std_scaler', StandardScaler()),
+                ('KNN',
+                 KNeighborsClassifier(n_neighbors=8, weights='distance'))])"
+Melhor pontuação de validação cruzada: ,0.6910925771476231

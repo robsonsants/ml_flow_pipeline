@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/allis/Downloads/MDCC/Untitled%20Folder/mlruns/0/f962631cd6e44016b9501eedadd474da/artifacts
+end_time: 1712972436838
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f962631cd6e44016b9501eedadd474da
+run_name: dapper-hare-499
+run_uuid: f962631cd6e44016b9501eedadd474da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712972402218
+status: 3
+tags: []
+user_id: allis

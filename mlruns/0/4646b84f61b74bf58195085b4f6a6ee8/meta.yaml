@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/allis/Downloads/MDCC/Untitled%20Folder/mlruns/0/4646b84f61b74bf58195085b4f6a6ee8/artifacts
+end_time: 1712972590124
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4646b84f61b74bf58195085b4f6a6ee8
+run_name: capable-snake-67
+run_uuid: 4646b84f61b74bf58195085b4f6a6ee8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712972558842
+status: 3
+tags: []
+user_id: allis

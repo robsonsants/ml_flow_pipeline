@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/allis/Downloads/MDCC/Untitled%20Folder/mlruns/0/4877ea81b33c4aec93fa29c9b92a2f0b/artifacts
+end_time: 1712972397495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4877ea81b33c4aec93fa29c9b92a2f0b
+run_name: intrigued-sheep-493
+run_uuid: 4877ea81b33c4aec93fa29c9b92a2f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712972397479
+status: 3
+tags: []
+user_id: allis

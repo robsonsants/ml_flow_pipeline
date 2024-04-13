@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/allis/Downloads/MDCC/Untitled%20Folder/mlruns/0/15faf852e6c84a8ea8aa63ccb67bc8de/artifacts
+end_time: 1712971294159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15faf852e6c84a8ea8aa63ccb67bc8de
+run_name: merciful-newt-390
+run_uuid: 15faf852e6c84a8ea8aa63ccb67bc8de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712971294128
+status: 3
+tags: []
+user_id: allis

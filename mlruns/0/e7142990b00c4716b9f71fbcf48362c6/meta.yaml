@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/allis/Downloads/MDCC/Untitled%20Folder/mlruns/0/e7142990b00c4716b9f71fbcf48362c6/artifacts
+end_time: 1712974409999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7142990b00c4716b9f71fbcf48362c6
+run_name: caring-moose-175
+run_uuid: e7142990b00c4716b9f71fbcf48362c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712974387376
+status: 3
+tags: []
+user_id: allis

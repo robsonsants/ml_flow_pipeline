@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/allis/Downloads/MDCC/Untitled%20Folder/mlruns/0/d2d605a675974a5cb8238eba687373a2/artifacts
+end_time: 1712974579867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2d605a675974a5cb8238eba687373a2
+run_name: gifted-lynx-172
+run_uuid: d2d605a675974a5cb8238eba687373a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712974579864
+status: 3
+tags: []
+user_id: allis

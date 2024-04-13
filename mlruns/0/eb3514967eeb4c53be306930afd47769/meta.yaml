@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/allis/Downloads/MDCC/Untitled%20Folder/mlruns/0/eb3514967eeb4c53be306930afd47769/artifacts
+end_time: 1712972210776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb3514967eeb4c53be306930afd47769
+run_name: burly-colt-533
+run_uuid: eb3514967eeb4c53be306930afd47769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712972176389
+status: 3
+tags: []
+user_id: allis
